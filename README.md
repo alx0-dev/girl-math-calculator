@@ -1,5 +1,7 @@
 # Girl Math Calculator 💸🧮
 
+Check it out here: https://girl-math-calculator.onrender.com/
+
 **Girl Math Calculator** is a simple and fun web app that helps you determine how many **hours**, **days**, or **months** it would take to earn enough money to buy a specific item, based on your **monthly or annual salary**.
 
 ## 🚀 Features
